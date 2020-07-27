@@ -20,6 +20,27 @@
         }
     },
                  
+           {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-112.0107911,33.4807485]
+        },
+        "properties": {
+            "SUP": false,
+            "Kayak": true,
+            "Canoe": false,
+            "Discount": true,
+            "icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
+            "logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/hikingshackshirtlogo.png",
+            "description": "Discount: Receive 10% off your rental when you mention the 2020 Panda Paddle Event. Equipment available: Kayak",
+            "title": "Arizona Hiking Shack",
+            "website": "https://hikingshack.com/",
+            "marker-size": "small"
+        }
+    },   
+                 
+                 
                  
                  
                  
