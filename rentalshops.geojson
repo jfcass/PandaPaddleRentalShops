@@ -39,7 +39,30 @@
             "marker-size": "small"
         }
     },   
+  
+
                  
+                            {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-111.9155638,33.4205809]
+        },
+        "properties": {
+            "SUP": true,
+            "Kayak": true,
+            "Canoe": false,
+            "Discount": true,
+            "icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
+            "logo": "",
+            "description": "Discount: Registered participants will receive a complimentary 1-day paddleboard or kayak rental. The cost for additional days will be the responsibility of the renter. Reservations in advance are required with proof of registration. A credit card is required to remain on file during the duration of the reservation. Equipment available: SUP (recreational) and Kayak",
+            "title": "Riverbound Sports Paddle Co.",
+            "website": "https://www.riverboundsports.com",
+            "marker-size": "small"
+        }
+    },  
+
+  
                  
                  
                             {
@@ -53,9 +76,9 @@
             "Kayak": false,
             "Canoe": false,
             "Discount": false,
-            "icon": "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
-            "logo": "",
-            "description": "Equipment available: SUP board (race and recreational)",
+            "icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
+            "logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/bethoudboardco.jpg?t=1597182329558",
+            "description": "Discount: 50% off board rentals for all registered paddlers. Discounted SUP race clinics also available. Equipment available: SUP board (race and recreational)",
             "title": "Berthoud Board CO",
             "website": "https://www.facebook.com/Berthoud-Board-Co-108233650946319",
             "marker-size": "small"
