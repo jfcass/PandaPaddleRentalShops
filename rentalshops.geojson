@@ -19,7 +19,31 @@
             "marker-size": "small"
         }
     },
-                 
+          
+
+
+           {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.2873256,37.7662879]
+        },
+        "properties": {
+            "SUP": true,
+            "Kayak": false,
+            "Canoe": false,
+            "Discount": false,
+            "icon": "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
+            "logo": "",
+            "description": "Equipment available: SUP recreational, SUP race boards",
+            "title": "Mike's Paddle",
+            "website": "www.mikespaddle.com",
+            "marker-size": "small"
+        }
+    },   
+  
+
+  
            {
         "type": "Feature",
         "geometry": {
