@@ -38,7 +38,7 @@
             "Discount": true,
             "icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
             "logo": "",
-            "description": "Discount: 50% of any rentals used for the race. Equipment available: SUP (race and recreational), Canoe, OC1, Kayak",
+            "description": "Discount: 50 of any rentals used for the race. Equipment available: SUP (race and recreational), Canoe, OC1, Kayak",
             "title": "Rocky Mountain Paddleboard",
             "website": "http://www.rockymtnpaddleboard.com",
             "marker-size": "small"
@@ -187,7 +187,46 @@
     },
                  
                  
-                 
+           
+
+                 {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.1572928, 43.9432627]
+        },
+        "properties": {
+            "SUP": true,
+            "Kayak": true,
+            "Canoe": false,
+            "Discount": false,
+            "icon": "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
+            "logo": "",
+            "description": "Equipment Available: SUP, Kayak, Paddleboat",
+            "title": "Sackets Paddle Co",
+            "website": "http://www.supsacketsharbor.com/",
+            "marker-size": "small"
+			}
+        },
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		   
                  {
         "type": "Feature",
         "geometry": {
