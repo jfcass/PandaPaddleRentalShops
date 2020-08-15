@@ -170,6 +170,30 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
+            "coordinates": [-82.7915441,34.6808475]
+        },
+        "properties": {
+            "SUP": true,
+            "Kayak": false,
+            "Canoe": true,
+            "Discount": false,
+            "icon": "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
+            "logo": "",
+            "description": "Equipment available: SUP recreational, Canoe",
+            "title": "Cruz Outdoors, LLC",
+            "website": "https://cruzoutdoors.com/",
+            "marker-size": "small"
+        }
+    },
+             
+
+
+
+			 
+                 {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
             "coordinates": [-83.912623, 35.962074]
         },
         "properties": {
