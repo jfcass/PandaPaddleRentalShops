@@ -176,10 +176,10 @@
             "SUP": true,
             "Kayak": false,
             "Canoe": true,
-            "Discount": false,
-            "icon": "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
+            "Discount": true,
+            "icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
             "logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/Cruz-Outdoors-Logo-with-Name.jpg",
-            "description": "Equipment available: SUP recreational, Canoe",
+            "description": "Discounts: $20 SUP and Canoe Rentals for Panda Paddle Events, Discounted SUP Lessons $35 and a discounted Introductory Paddle Fit Class for $15. Equipment available: SUP recreational, Canoe",
             "title": "Cruz Outdoors, LLC",
             "website": "https://cruzoutdoors.com/",
             "marker-size": "small"
