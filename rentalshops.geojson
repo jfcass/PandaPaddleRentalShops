@@ -19,6 +19,48 @@
             "marker-size": "small"
         }
     },
+                 
+                 {
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [33.4809204,-112.0130775] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/a0568e79.jfif", 
+"description": "Discount details: Receive 10% off your rental when you mention the 2021 Panda Paddle Event. Equipment available: SUP recreational, Kayak", 
+"title": "The Arizona Hiking Shack", 
+"website": "https://www.hikingshack.com", 
+"marker-size": "small" 
+ } 
+ },
+     
+{
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [42.875731,-78.8807137] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/BFLOHK_logo.jpg", 
+"description": "Discount details: $5 off rentals. Equipment available: SUP recreational, Kayak
+", 
+"title": "BFLO Harbor Kayak", 
+"website": "https://bfloharborkayak.com", 
+"marker-size": "small" 
+ } 
+ },                 
+                 
           
  
                  {
