@@ -20,6 +20,26 @@
 "marker-size": "small" 
  } 
  },
+                 
+                 {
+type: Feature, 
+geometry: { 
+type: Point, 
+coordinates: [-117.2408768,32.7591634] 
+}, 
+properties: { 
+SUP: true,
+Kayak: true,
+Canoe: true,
+Discount:  true,
+icon: https://maps.google.com/mapfiles/ms/icons/red-dot.png, 
+logo: https://secure2.convio.net/wwf/images/content/pagebuilder/aa-small.jpg, 
+description: Discount details: $10 off your rental. Equipment available: SUP (recreational and race), Kayak, Canoe, OC1, 
+title: Aqua Adventures, 
+website: www.aqua-adventures.com, 
+marker-size: small 
+ } 
+ },
      
 {
 "type": "Feature", 
