@@ -20,236 +20,49 @@
         }
     },
           
-
-
-
-
-
-{
-"type": "Feature", 
-"geometry": { 
-"type": "Point", 
-"coordinates": [-105.4360098,39.6306633] 
+"{
+type: Feature, 
+geometry: { 
+type: Point, 
+coordinates: [33.4809204,-112.0130775] 
 }, 
-"properties": { 
-"SUP": true,
-"Kayak": false,
-"Canoe": false,
-"Discount":  true,
-"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
-"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/hikingshackshirtlogo.png", 
-"description": "Discount: 50 of any rentals used for the race. Equipment available: SUP (race and recreational), Canoe, OC1, Kayak", 
-"title": "Jon test", 
-"website": "http://www.rockymtnpaddleboard.com", 
-"marker-size": "small" 
+properties: { 
+SUP: true,
+Kayak: true,
+Canoe: false,
+Discount:  true,
+icon: https://maps.google.com/mapfiles/ms/icons/red-dot.png, 
+logo: https://secure2.convio.net/wwf/images/content/pagebuilder/a0568e79.jfif, 
+description: Discount details: Receive 10% off your rental when you mention the 2021 Panda Paddle Event. 
+
+Equipment available: SUP recreational, Kayak, 
+title: The Arizona Hiking Shack, 
+website: https://www.hikingshack.com, 
+marker-size: small 
  } 
- },
-  
-  
-  
-  
+ },"
+"{
+type: Feature, 
+geometry: { 
+type: Point, 
+coordinates: [42.875731,-78.8807137] 
+}, 
+properties: { 
+SUP: true,
+Kayak: true,
+Canoe: false,
+Discount:  true,
+icon: https://maps.google.com/mapfiles/ms/icons/red-dot.png, 
+logo: https://secure2.convio.net/wwf/images/content/pagebuilder/BFLOHK_logo.jpg, 
+description: Discount details: $5 off rentals 
 
-           {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-122.2873256,37.7662879]
-        },
-        "properties": {
-            "SUP": true,
-            "Kayak": false,
-            "Canoe": false,
-            "Discount": false,
-            "icon": "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
-            "logo": "",
-            "description": "Equipment available: SUP recreational, SUP race boards",
-            "title": "Mike's Paddle",
-            "website": "http://www.mikespaddle.com",
-            "marker-size": "small"
-        }
-    },   
-  
-
-  
-           {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-112.0107911,33.4807485]
-        },
-        "properties": {
-            "SUP": false,
-            "Kayak": true,
-            "Canoe": false,
-            "Discount": true,
-            "icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
-            "logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/hikingshackshirtlogo.png",
-            "description": "Discount: Receive 10% off your rental when you mention the 2020 Panda Paddle Event. Equipment available: Kayak",
-            "title": "Arizona Hiking Shack",
-            "website": "https://hikingshack.com/",
-            "marker-size": "small"
-        }
-    },   
-  
-
-                 
-                            {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-111.9155638,33.4205809]
-        },
-        "properties": {
-            "SUP": true,
-            "Kayak": true,
-            "Canoe": false,
-            "Discount": true,
-            "icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
-            "logo": "",
-            "description": "Discount: Registered participants will receive a complimentary 1-day paddleboard or kayak rental. The cost for additional days will be the responsibility of the renter. Reservations in advance are required with proof of registration. A credit card is required to remain on file during the duration of the reservation. Equipment available: SUP (recreational) and Kayak",
-            "title": "Riverbound Sports Paddle Co.",
-            "website": "https://www.riverboundsports.com",
-            "marker-size": "small"
-        }
-    },  
-
-  
-                 
-                 
-                            {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-105.1107856,40.3134623]
-        },
-        "properties": {
-            "SUP": true,
-            "Kayak": false,
-            "Canoe": false,
-            "Discount": true,
-            "icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
-            "logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/bethoudboardco.jpg?t=1597182329558",
-            "description": "Discount: 50% off board rentals for all registered paddlers. Discounted SUP race clinics also available. Equipment available: SUP board (race and recreational)",
-            "title": "Berthoud Board CO",
-            "website": "https://www.facebook.com/Berthoud-Board-Co-108233650946319",
-            "marker-size": "small"
-        }
-    },  
-
-                 
-                 
-                 
-                 
-                 
-                 
-                 {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-82.039032, 33.549361]
-        },
-        "properties": {
-            "SUP": true,
-            "Kayak": true,
-            "Canoe": true,
-            "Discount": true,
-            "icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
-            "logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/Savannah-Rapids-Logo.jpg?t=1594318474030",
-            "description": "Discount: $5 off your rental. Equipment available: SUP (recreational),  Canoe, Kayak",
-            "title": "Savannah Rapids Kayak Rental",
-            "website": "https://kayakaugustacanal.com/",
-            "marker-size": "small"
-        }
-    }, 
-                 
-                 
-                 
-                 
-                 {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-82.7915441,34.6808475]
-        },
-        "properties": {
-            "SUP": true,
-            "Kayak": false,
-            "Canoe": true,
-            "Discount": true,
-            "icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
-            "logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/Cruz-Outdoors-Logo-with-Name.jpg",
-            "description": "Discounts: $20 SUP and Canoe Rentals for Panda Paddle Events, Discounted SUP Lessons $35 and a discounted Introductory Paddle Fit Class for $15. Equipment available: SUP recreational, Canoe",
-            "title": "Cruz Outdoors, LLC",
-            "website": "https://cruzoutdoors.com/",
-            "marker-size": "small"
-        }
-    },
-             
-
-
-
-			 
-                 {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-83.912623, 35.962074]
-        },
-        "properties": {
-            "SUP": true,
-            "Kayak": true,
-            "Canoe": true,
-            "Discount": true,
-            "icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
-            "logo": "",
-            "description": "Discount: $5 off your rental. Equipment available: SUP recreational and race boards, Canoe, Kayak, Hydrobikes",
-            "title": "Knoxville Adventure Collective",
-            "website": "https://knoxvilleadventure.com/",
-            "marker-size": "small"
-        }
-    },
-                 
-                 
-           
-
-                 {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-76.1572928, 43.9432627]
-        },
-        "properties": {
-            "SUP": true,
-            "Kayak": true,
-            "Canoe": false,
-            "Discount": false,
-            "icon": "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
-            "logo": "",
-            "description": "Equipment Available: SUP, Kayak, Paddleboat",
-            "title": "Sackets Paddle Co",
-            "website": "http://www.supsacketsharbor.com/",
-            "marker-size": "small"
-			}
-        },
-               
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		   
+Equipment available: SUP recreational, Kayak
+, 
+title: BFLO Harbor Kayak, 
+website: https://bfloharborkayak.com, 
+marker-size: small 
+ } 
+ },"   
                  {
         "type": "Feature",
         "geometry": {
