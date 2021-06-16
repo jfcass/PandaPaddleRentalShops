@@ -40,26 +40,7 @@
  } 
  },
      
-{
-"type": "Feature", 
-"geometry": { 
-"type": "Point", 
-"coordinates": [42.875731,-78.8807137] 
-}, 
-"properties": { 
-"SUP": true,
-"Kayak": true,
-"Canoe": false,
-"Discount":  true,
-"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
-"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/BFLOHK_logo.jpg", 
-"description": "Discount details: $5 off rentals. Equipment available: SUP recreational, Kayak
-", 
-"title": "BFLO Harbor Kayak", 
-"website": "https://bfloharborkayak.com", 
-"marker-size": "small" 
- } 
- },                 
+             
                  
           
  
