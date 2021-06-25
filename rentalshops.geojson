@@ -22,6 +22,47 @@
  },
                  
 
+                 
+{
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-111.5949696,33.3322038] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": false,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "", 
+"description": "Discount details: $5 off rental. Equipment avilable: SUP recreational", 
+"title": "WildHorse Paddleboards", 
+"website": "www.wildhorsepaddleboards.com", 
+"marker-size": "small" 
+ } 
+ },
+        
+                 {
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-119.6957498,34.4037535] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": false,
+"Discount":  false,
+"icon": "https://maps.google.com/mapfiles/ms/icons/blue-dot.png", 
+"logo": "", 
+"description": "Rental equipment available: SUP (recreational and race), Kayak, Kite surfing, surfboards, boogie boards", 
+"title": "Paddle Sports Center", 
+"website": "paddlesportsca.com", 
+"marker-size": "small" 
+ } 
+ },
+                 
 {
 "type": "Feature", 
 "geometry": { 
