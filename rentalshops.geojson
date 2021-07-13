@@ -21,7 +21,45 @@
  } 
  },
                  
-
+{
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-77.259135,38.6833149] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/penguin_paddling.png", 
+"description": "Discount details: 10% off to participants when you mention Panda Paddle at checkout. Rental equipment available: SUP (recreational), Kayak.", 
+"title": "Penguin Paddling", 
+"website": "www.penguinpaddling.com", 
+"marker-size": "small" 
+ } 
+ },
+                 
+{
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-117.7061009,33.461754] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/westwind.jfif", 
+"description": "Discount details: 10% off hourly rental of SUPs or Kayaks. Rental equipment available: SUP (recreational), Kayak, Dinghy Sailboats, Sabot Rowboats)", 
+"title": "Westwind Sailing", 
+"website": "www.westwindsailing.com", 
+"marker-size": "small" 
+ } 
+ },            
                  
 {
 "type": "Feature", 
