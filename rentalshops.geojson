@@ -21,6 +21,26 @@
  } 
  },
                  
+                 {
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-81.7388811,28.0160062] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": false,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/Fullcolor.jpg", 
+"description": "Discount details: 20% off board rentals with discount code Panda2021.  Rental Equipment Available: SUP recreational. ", 
+"title": "Paddleboard Winter Haven", 
+"website": "www.paddleboardwinterhaven.com", 
+"marker-size": "small" 
+ } 
+ },
+                 
 {
 "type": "Feature", 
 "geometry": { 
