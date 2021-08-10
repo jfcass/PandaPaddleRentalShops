@@ -21,6 +21,29 @@
  } 
  },
                  
+                 
+                 {
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-76.1062878,43.9523194] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": true,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/sacketsharbor.jpg", 
+"description": "Discount details: 15% off rental, raffle for participants. Rental Equipment Available: SUP recreational, Kayak, Canoe, Paddleboat", 
+"title": "Sackets Paddle Co", 
+"website": "facebook.com/sacketspaddleco", 
+"marker-size": "small" 
+ } 
+ },
+                 
+                 
+                 
                  {
 "type": "Feature", 
 "geometry": { 
