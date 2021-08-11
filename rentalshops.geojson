@@ -20,7 +20,26 @@
 "marker-size": "small" 
  } 
  },
-                 
+ 
+ {
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-80.4347277,27.6351506] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/SeaSupGo.png", 
+"description": "Discount details: Only charged one hour rental if you let us know you are participating in the Panda Paddle. Rental Equipment Available: SUP recreational, Kayak.", 
+"title": "Sea SUP Go Tours", 
+"website": "Seasupgo.com", 
+"marker-size": "small" 
+ } 
+ },
                  
                  {
 "type": "Feature", 
