@@ -20,6 +20,26 @@
 "marker-size": "small" 
  } 
  },
+                 
+                 {
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-74.9129611,38.9498922] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/misschris.jfif?t=1629405612946", 
+"description": "Discount details: 50 percent off regular rates for registered participants. Rental Equipment Available: SUP recreational, Kayak", 
+"title": "Miss Chris Kayaks and Paddleboards", 
+"website": "capemaykayaks.com", 
+"marker-size": "small" 
+ } 
+ },
  
  {
 "type": "Feature", 
