@@ -21,7 +21,37 @@
  } 
  },
         
-            
+ 
+		 
+		 
+	
+		 {
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-96.637401,43.5680429] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "", 
+"description": "Discount details: 10% off rental. Equipment available: Kayak, SUP recreational, Paddleboat, Tubes
+", 
+"title": "King Rentals ", 
+"website": "www.Kingsrecrentals.com ", 
+"marker-size": "small" 
+ } 
+ },
+		 
+		 
+		 
+		 
+		 
+		 
+		 
                  
 {
 "type": "Feature", 
