@@ -41,47 +41,9 @@
 "website": "https://www.aqua-adventures.com", 
 "marker-size": "small" 
  } 
- },
+
      
-{
-"type": "Feature", 
-"geometry": { 
-"type": "Point", 
-"coordinates": [-96.637401,43.5680429] 
-}, 
-"properties": { 
-"SUP": true,
-"Kayak": true,
-"Canoe": false,
-"Discount":  true,
-"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
-"logo": "", 
-"description": "Discount details: 10% off rental. Equipment available: Kayak, SUP recreational, Paddleboat, Tubes
-", 
-"title": "King Rentals ", 
-"website": "www.Kingsrecrentals.com ", 
-"marker-size": "small" 
- } 
- },
- 
- {
-"type": "Feature", 
-"geometry": { 
-"type": "Point", 
-"coordinates": [-105.2264608,40.0712194] 
-}, 
-"properties": { 
-"SUP": true,
-"Kayak": true,
-"Canoe": true,
-"Discount":  true,
-"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
-"logo": "", 
-"description": "Discount details: 25% off your rental. Equipment available: SUP (recreational and race), Kayak, Canoe, Paddleboat, OC1", 
-"title": "Rocky Mountain Paddleboard", 
-"website": "www.rockymtnpaddleboard.com", 
-"marker-size": "small" 
- } 
+
 
 }]
 }
