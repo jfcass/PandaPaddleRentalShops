@@ -49,6 +49,30 @@
 		 
 		 
 		 
+ {
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-105.2264608,40.0712194] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": true,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "", 
+"description": "Discount details: 25% off your rental. Equipment available: SUP (recreational and race), Kayak, Canoe, Paddleboat, OC1", 
+"title": "Rocky Mountain Paddleboard", 
+"website": "www.rockymtnpaddleboard.com", 
+"marker-size": "small" 
+ }
+ }, 
+		 
+		 
+		 
+		 
+		 
 		 
 		 
                  
