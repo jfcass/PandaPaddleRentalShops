@@ -1,148 +1,8 @@
 {
     "type": "FeatureCollection",
-    "features": [{
-           
-"type": "Feature", 
-"geometry": { 
-"type": "Point", 
-"coordinates": [-112.0130775 ,33.4809204] 
-}, 
-"properties": { 
-"SUP": true,
-"Kayak": true,
-"Canoe": false,
-"Discount":  true,
-"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
-"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/a0568e79.jfif", 
-"description": "Discount details: Receive 10% off your rental when you mention the 2021 Panda Paddle Event. Equipment available: SUP recreational, Kayak", 
-"title": "The Arizona Hiking Shack", 
-"website": "https://www.hikingshack.com", 
-"marker-size": "small" 
- } 
- },
-                 
-                 {
-"type": "Feature", 
-"geometry": { 
-"type": "Point", 
-"coordinates": [-74.9129611,38.9498922] 
-}, 
-"properties": { 
-"SUP": true,
-"Kayak": true,
-"Canoe": false,
-"Discount":  true,
-"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
-"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/misschris.jfif?t=1629405612946", 
-"description": "Discount details: 50 percent off regular rates for registered participants. Rental Equipment Available: SUP recreational, Kayak", 
-"title": "Miss Chris Kayaks and Paddleboards", 
-"website": "https://capemaykayaks.com", 
-"marker-size": "small" 
- } 
- },
- 
- {
-"type": "Feature", 
-"geometry": { 
-"type": "Point", 
-"coordinates": [-80.4347277,27.6351506] 
-}, 
-"properties": { 
-"SUP": true,
-"Kayak": true,
-"Canoe": false,
-"Discount":  true,
-"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
-"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/SeaSupGo.png", 
-"description": "Discount details: Only charged one hour rental if you let us know you are participating in the Panda Paddle. Rental Equipment Available: SUP recreational, Kayak.", 
-"title": "Sea SUP Go Tours", 
-"website": "https://Seasupgo.com", 
-"marker-size": "small" 
- } 
- },
-                 
-                 {
-"type": "Feature", 
-"geometry": { 
-"type": "Point", 
-"coordinates": [-76.1062878,43.9523194] 
-}, 
-"properties": { 
-"SUP": true,
-"Kayak": true,
-"Canoe": true,
-"Discount":  true,
-"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
-"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/sacketsharbor.jpg", 
-"description": "Discount details: 15% off rental, raffle for participants. Rental Equipment Available: SUP recreational, Kayak, Canoe, Paddleboat", 
-"title": "Sackets Paddle Co", 
-"website": "https://facebook.com/sacketspaddleco", 
-"marker-size": "small" 
- } 
- },
-                 
-                 
-                 
-                 {
-"type": "Feature", 
-"geometry": { 
-"type": "Point", 
-"coordinates": [-81.7388811,28.0160062] 
-}, 
-"properties": { 
-"SUP": true,
-"Kayak": false,
-"Canoe": false,
-"Discount":  true,
-"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
-"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/Fullcolor.jpg", 
-"description": "Discount details: 20% off board rentals with discount code Panda2021.  Rental Equipment Available: SUP recreational. ", 
-"title": "Paddleboard Winter Haven", 
-"website": "https://www.paddleboardwinterhaven.com", 
-"marker-size": "small" 
- } 
- },
-                 
-{
-"type": "Feature", 
-"geometry": { 
-"type": "Point", 
-"coordinates": [-77.259135,38.6833149] 
-}, 
-"properties": { 
-"SUP": true,
-"Kayak": true,
-"Canoe": false,
-"Discount":  true,
-"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
-"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/penguin_paddling.png", 
-"description": "Discount details: 10% off to participants when you mention Panda Paddle at checkout. Rental equipment available: SUP (recreational), Kayak.", 
-"title": "Penguin Paddling", 
-"website": "https://www.penguinpaddling.com", 
-"marker-size": "small" 
- } 
- },
-                 
-{
-"type": "Feature", 
-"geometry": { 
-"type": "Point", 
-"coordinates": [-117.7061009,33.461754] 
-}, 
-"properties": { 
-"SUP": true,
-"Kayak": true,
-"Canoe": false,
-"Discount":  true,
-"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
-"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/westwind.jfif", 
-"description": "Discount details: 10% off hourly rental of SUPs or Kayaks. Rental equipment available: SUP (recreational), Kayak, Dinghy Sailboats, Sabot Rowboats)", 
-"title": "Westwind Sailing", 
-"website": "https://www.westwindsailing.com", 
-"marker-size": "small" 
- } 
- },            
-                 
+    "features": [
+	
+	                 
 {
 "type": "Feature", 
 "geometry": { 
@@ -163,25 +23,7 @@
  } 
  },
         
-                 {
-"type": "Feature", 
-"geometry": { 
-"type": "Point", 
-"coordinates": [-119.6957498,34.4037535] 
-}, 
-"properties": { 
-"SUP": true,
-"Kayak": true,
-"Canoe": false,
-"Discount":  false,
-"icon": "https://maps.google.com/mapfiles/ms/icons/blue-dot.png", 
-"logo": "", 
-"description": "Rental equipment available: SUP (recreational and race), Kayak, Kite surfing, surfboards, boogie boards", 
-"title": "Paddle Sports Center", 
-"website": "https://paddlesportsca.com", 
-"marker-size": "small" 
- } 
- },
+            
                  
 {
 "type": "Feature", 
@@ -207,7 +49,7 @@
 "type": "Feature", 
 "geometry": { 
 "type": "Point", 
-"coordinates": [-78.8807137 ,42.875731] 
+"coordinates": [-96.637401,43.5680429] 
 }, 
 "properties": { 
 "SUP": true,
@@ -215,12 +57,34 @@
 "Canoe": false,
 "Discount":  true,
 "icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
-"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/BFLOHK_logo.jpg", 
-"description": "Discount details: $5 off rentals. Equipment available: SUP recreational, Kayak", 
-"title": "BFLO Harbor Kayak", 
-"website": "https://bfloharborkayak.com", 
+"logo": "", 
+"description": "Discount details: 10% off rental. Equipment available: Kayak, SUP recreational, Paddleboat, Tubes
+", 
+"title": "King Rentals ", 
+"website": "www.Kingsrecrentals.com ", 
 "marker-size": "small" 
  } 
+ },
+ 
+ {
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-105.2264608,40.0712194] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": true,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "", 
+"description": "Discount details: 25% off your rental. Equipment available: SUP (recreational and race), Kayak, Canoe, Paddleboat, OC1", 
+"title": "Rocky Mountain Paddleboard", 
+"website": "www.rockymtnpaddleboard.com", 
+"marker-size": "small" 
+ } 
+ }
                
                  
           
