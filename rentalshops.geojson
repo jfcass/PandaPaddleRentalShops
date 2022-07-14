@@ -64,6 +64,115 @@
 "logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/RockeyMountainPaddle.png", 
 "description": "Discount details: 25% off your rental. Equipment available: SUP (recreational and race), Kayak, Canoe, Paddleboat, OC1", 
 "title": "Rocky Mountain Paddleboard", 
+"website": "www.rockymtnpaddleboard.com", 
+"marker-size": "small" 
+ } 
+ },
+		 
+		 
+		 
+		 
+		 
+		 
+{
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-73.9594864,41.4161213] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/hudsonriver.jpg", 
+"description": "Discount details: 10% off rentals, Equipment available: SUP (recreational), Kayak.", 
+"title": "Hudson River Expeditions", 
+"website": "https://www.HudsonRiverExpeditions.com", 
+"marker-size": "small" 
+ } 
+ },
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+{
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-71.454138,41.6639472] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/rips.jpg?t=1657841615555", 
+"description": "Discount details: Half priced two hour rentals. Equipment available: SUP (recreational), Kayak.", 
+"title": "Rhode Island Paddle Sports", 
+"website": "https://www.ripaddlesports.com/", 
+"marker-size": "small" 
+ } 
+ },
+		 
+		 
+		 
+		 
+
+		 
+		 
+
+		 
+		
+{
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-118.4582647,33.9819344] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/PSS22_Logo_350_whale.png?t=1657842584927", 
+"description": "Discount details: $5 off your rental. Equipment available: SUP (recreational), Kayak.", 
+"title": "Pro SUP Shop", 
+"website": "https://www.prosupshop.com/", 
+"marker-size": "small" 
+ } 
+ },
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+{
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-105.2264608,40.0712194] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": true,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/RockeyMountainPaddle.png", 
+"description": "Discount details: 25% off your rental. Equipment available: SUP (recreational and race), Kayak, Canoe, Paddleboat, OC1", 
+"title": "Rocky Mountain Paddleboard", 
 "website": "http://www.rockymtnpaddleboard.com", 
 "marker-size": "small" 
  }
