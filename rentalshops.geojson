@@ -23,6 +23,31 @@
         
  
 		 
+		 
+		 
+		 {
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-86.7485124,37.9212414] 
+}, 
+"properties": { 
+"SUP": false,
+"Kayak": true,
+"Canoe": false,
+"Discount":  false,
+"icon": "https://maps.google.com/mapfiles/ms/icons/blue-dot.png", 
+"logo": "", 
+"description": "Equipment available: Kayak", 
+"title": "Paddle Perry, Inc. ", 
+"website": "http://paddleperry.com/", 
+"marker-size": "small" 
+ } 
+ },
+		 
+		 
+		 
+		 
 		 {
 "type": "Feature", 
 "geometry": { 
