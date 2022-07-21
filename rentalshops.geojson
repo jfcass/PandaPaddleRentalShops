@@ -22,6 +22,31 @@
  },
         
  
+	
+		 
+		 
+		 
+		 
+		 {
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-151.4229614,59.602514] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": false,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "", 
+"description": "Discount details: $10 off our day rental. Equipment available: SUP (recreational). ", 
+"title": "Paddlesports by True North Ak", 
+"website": "https://www.facebook.com/TruenorthAK", 
+"marker-size": "small" 
+ } 
+ },
+		 
 		 
 		 
 		 
