@@ -23,6 +23,28 @@
         
  
 	
+
+		 
+{
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [90.4310967,42.412216] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": true,
+"Discount":  false,
+"icon": "https://maps.google.com/mapfiles/ms/icons/blue-dot.png", 
+"logo": "", 
+"description": "Equipment available: SUP recreational, Kayak, Canoe, Tandem kayaks. Bikes, Electric bikes", 
+"title": "Galena River Outfitters", 
+"website": "https://www.galenariveroutfitters.com/", 
+"marker-size": "small" 
+ } 
+ },
+		 
 		 
 		 
 		 
