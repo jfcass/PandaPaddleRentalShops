@@ -22,7 +22,26 @@
  },
         
  
-	
+{
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-97.0504545,37.7014849] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/293621787_459277052869822_94110680834786651_n.jpg?t=1659966826681", 
+"description": "Discount details: 50% off for registered Panda Paddlers on the day they choose to paddle for WWF. Equipment available: SUP (recreational and race), Kayak. ", 
+"title": "Flatwater Fitness & Fun", 
+"website": "https://flatwaterfitness.com", 
+"marker-size": "small" 
+ } 
+ },
+		 
 
 		 
 {
