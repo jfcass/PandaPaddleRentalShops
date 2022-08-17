@@ -21,8 +21,28 @@
  } 
  },
      
+
+		 {
+"type": "Feature", 
+"geometry": { 
+"type": "Point", 
+"coordinates": [-120.7557369,35.1723337] 
+}, 
+"properties": { 
+"SUP": true,
+"Kayak": true,
+"Canoe": false,
+"Discount":  true,
+"icon": "https://maps.google.com/mapfiles/ms/icons/red-dot.png", 
+"logo": "https://secure2.convio.net/wwf/images/content/pagebuilder/AvilaBeachPaddlesportsLOGO_copy.png?t=1660775110921", 
+"description": "Discount details: 50% off your rental. Equipment Available: SUP (recreational), Kayak", 
+"title": "Avila Beach Paddlesports", 
+"website": "http://www.avilabeachpaddlesports.com", 
+"marker-size": "small" 
+ } 
+ },
+	
 		 
-	 
 		 
  
 {
